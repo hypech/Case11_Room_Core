@@ -1,4 +1,4 @@
-package com.hypech.case9core_room;
+package com.hypech.case11_room_core;
 
 import androidx.room.Entity;
 import androidx.room.PrimaryKey;

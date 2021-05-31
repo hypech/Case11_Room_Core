@@ -1,4 +1,4 @@
-package com.hypech.case9core_room;
+package com.hypech.case11_room_core;
 
 import androidx.room.Dao;
 import androidx.room.Delete;
